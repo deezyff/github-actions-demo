@@ -1,6 +1,10 @@
 # This is a basic workflow to help you get started with Actions
 
+<<<<<<< HEAD
 name: Hello World Test
+=======
+name: Hello World
+>>>>>>> 8a28e547e4baa0cad8d781431a41e12e1cc217d4
 
 # Controls when the workflow will run
 on:
